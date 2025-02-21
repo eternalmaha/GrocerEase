@@ -1,12 +1,6 @@
-## Overview
-
-This README file explains The Collab Lab’s smart shopping list project and provides instructions for developing it locally.
-
-If you’re a Collab Lab developer, WELCOME! We’re so excited to work with you and collaborate on something amazing. Be sure to read [the setup instructions](#set-up-the-project) and then [make your first contribution](#make-your-first-contribution)! For additional details on how your cohort will operate, please check out the [project brief](PROJECT-BRIEF.md).
-
 ## What is this project?
 
-The goal of this project is to collaborate with your Collab Lab team to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
+The goal of this version of GrocerEase is to further collaborate and learn from Team 77's Collab Lab project, a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. We hope to refactor the code to be more accessible, scalable, and optimized for better performance. All in the name of learning and having fun! 
 
 ### How does it work?
 
@@ -62,11 +56,3 @@ After you’ve cloned the project locally and updated the dependencies, run the 
 
 - [Git Presentation](https://youtu.be/zeC5iwsHllk) ([slides](https://docs.google.com/presentation/d/1onRsF-5NQbky8BOac5cGsJunjBisvauQPEC4hOWPaGI/edit#slide=id.p))
 
-## Make your first contribution
-
-You’ll want to make your first contribution to this repo before your kick-off call! This will help make sure you’re ready to go on day one.
-
-1. Get this project set up locally by following [the setup instructions](#set-up-the-project).
-2. Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
-   - Do this from your local environment and not from GitHub in your browser. The purpose (aside from highlighting our amazing team) is to make sure your local environment is set up properly!
-   - Commit to the `main` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to main will do just fine.)
