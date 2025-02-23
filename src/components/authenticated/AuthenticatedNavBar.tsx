@@ -15,7 +15,11 @@ export function AuthenticatedNavBar() {
 			className="bg-secondary rounded-bottom-3 pt-0"
 		>
 			<Container className="align-items-center justify-content-evenly">
-				<Navbar.Brand className="bg-primary rounded-bottom-3 text-center mb-3 px-3 text-dark fw-bolder shadow">
+				<Navbar.Brand
+					as={NavLink}
+					to="/"
+					className="bg-primary rounded-bottom-3 text-center mb-3 px-3 text-dark fw-bolder shadow"
+				>
 					GrocerEase
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="basic-navbar-nav" />
